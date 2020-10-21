@@ -10,3 +10,4 @@ My collection of templates for [Streamlit](https://www.streamlit.io/)
 Run `streamlit run <FILENAME.py>`
 
  * [Huggingface BERT QnA](huggingface_qna.py)
+ * [Spacy Visualizer](streamlit_spacy.py)
